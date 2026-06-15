@@ -1,0 +1,5 @@
+build/web-cache/
+__pycache__/
+asset/
+sound/
+DS_Store
