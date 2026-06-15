@@ -4,6 +4,7 @@ Patimon()
 
 パチモンの技を選んで相手を倒すターン制のゲームです。
 
+遊んでみる：https://mayo135.github.io/patimon/build/web/
 
 操作方法(マニュアル)
 ---
